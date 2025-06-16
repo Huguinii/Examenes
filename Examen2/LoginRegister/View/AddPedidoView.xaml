@@ -43,7 +43,7 @@
             ui:Grid.Row="1"/>
 
 
-        <DatePicker 
+        <DatePicker
             SelectedDate="{Binding SelectedDate, Mode=TwoWay}" 
             Name="myDatePicker" 
             Width="200" 
